@@ -52,9 +52,9 @@ The system has been thoroughly tested for:
 - System testing and validations
 
 ## How to Run
-1. Compile the GUI Class:
+1. Compile the GUI Class: <br>
         javac ArtGalleryGUI.java
-2. Run the application
+2. Run the application: <br>
          java ArtGalleryGUI
 
   
